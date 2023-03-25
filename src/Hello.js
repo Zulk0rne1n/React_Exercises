@@ -6,3 +6,4 @@ export class HelloWorld extends React.Component {
         return <h1>{hello}</h1>
     }
 }
+
